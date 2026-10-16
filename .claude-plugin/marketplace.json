@@ -1,0 +1,12 @@
+{
+  "name": "vems",
+  "description": "VEMS: a Claude Code mod for managing conda environments and packages",
+  "owner": { "name": "DDUKHAE", "url": "https://github.com/DDUKHAE" },
+  "plugins": [
+    {
+      "name": "vems",
+      "source": "./",
+      "description": "Browse and manage conda environments and packages in a pane (/envs)"
+    }
+  ]
+}

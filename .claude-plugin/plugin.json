@@ -1,0 +1,8 @@
+{
+  "name": "vems",
+  "version": "0.1.0",
+  "description": "Browse and manage conda environments and packages in a pane (/envs)",
+  "author": { "name": "DDUKHAE", "url": "https://github.com/DDUKHAE" },
+  "repository": "https://github.com/DDUKHAE/VEMS",
+  "types": "./types/index.d.ts"
+}
